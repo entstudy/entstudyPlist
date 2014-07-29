@@ -33,13 +33,13 @@
            <key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.entstudy.quickanswerteacherIH</string>
+               <string>com.entstudy.jpushtest</string>
                <key>bundle-version</key>
                <string>1</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>Tue</string>
+               <string>wjj</string>
                <key>title</key>
                <string>Tue</string>
            </dict>
