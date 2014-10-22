@@ -41,7 +41,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>bundle-identifier</key>
-				<string>com.entstudy.enjoystudyIH</string>
+				<string>com.entstudy.enjoystudyTeacherIH</string>
 			</dict>
 		</dict>
 	</array>
